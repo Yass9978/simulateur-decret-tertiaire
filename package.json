@@ -1,0 +1,11 @@
+{
+  "name": "simulateur-decret-tertiaire",
+  "version": "1.0.0",
+  "description": "Simulateur open source de trajectoire Décret Tertiaire (Éco Énergie Tertiaire) : objectifs -40 % 2030, -50 % 2040, -60 % 2050, écart et effort annuel.",
+  "main": "src/trajectoire.js",
+  "scripts": { "test": "node --test tests/" },
+  "keywords": ["decret-tertiaire", "eco-energie-tertiaire", "operat", "efficacite-energetique", "batiment", "simulateur", "gtb", "bacs"],
+  "author": "Smart Tech Engineering (https://smteng.fr)",
+  "homepage": "https://smteng.fr/simulateurs/trajectoire-decret-tertiaire/",
+  "license": "MIT"
+}
